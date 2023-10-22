@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a demo how to have a radius with degrees and integer values that simulates a controller to set room temperature.
+
+It uses Next.js to bootstrap the application and to already provide everything needed to run the app and also to deploy it.
 
 ## Getting Started
 
