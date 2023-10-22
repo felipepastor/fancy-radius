@@ -6,9 +6,9 @@ type LabelInfoProps = {
 
 export const LabelInfo: React.FC<LabelInfoProps> = ({ label }) => {
   return (
-    <h2 className="mt-10 mb-5">
+    <h1 className="mt-10 mb-5 text-5xl">
       {label}
       <span>&#176;</span>
-    </h2>
+    </h1>
   );
 };
